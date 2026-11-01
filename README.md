@@ -22,12 +22,11 @@ Storefront site for Parque y Casa de Eventos Las Secoyas (Calera de Tango). Plai
 
 ## Preview locally
 
-```
-cd site
-python -m http.server 8765
-```
+Open the repo in VS Code and click **Go Live** (Live Server extension). It serves `site/` at http://127.0.0.1:5502 and reloads on save. The root is set in `.vscode/settings.json`.
 
-Open http://127.0.0.1:8765. (Redirects in `.htaccess` only work on the real server.)
+Without VS Code: `cd site` then `python -m http.server 8765`, and open http://127.0.0.1:8765.
+
+Redirects in `.htaccess` only work on the real server.
 
 ## Deploy (FileZilla)
 
