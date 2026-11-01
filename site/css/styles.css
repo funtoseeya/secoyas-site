@@ -181,6 +181,23 @@ em.accent { font-family: var(--serif); font-style: italic; font-weight: 500; col
 .trust-item span { font-size: .85rem; color: rgba(255,255,255,.8); }
 @media (max-width: 700px) { .trust .wrap { grid-template-columns: repeat(2, 1fr); row-gap: 1.4rem; } }
 
+/* Seasonal notice (remove or change each season) */
+.season { background: #f1e4c8; color: var(--forest); font-size: .95rem; }
+.season .wrap { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: .4rem 1.25rem; padding-top: .9rem; padding-bottom: .9rem; text-align: center; }
+.season p { margin: 0; }
+.season a { font-weight: 700; color: var(--wood); }
+
+/* Reasons to choose */
+.pillars { display: grid; grid-template-columns: repeat(4, 1fr); gap: 2rem; }
+.pillar { border-top: 2px solid var(--gold); padding-top: 1.25rem; }
+.pillar h3 { font-size: 1.45rem; }
+.pillar p { color: var(--muted); font-size: .97rem; margin: 0; }
+@media (max-width: 1000px) { .pillars { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 560px) { .pillars { grid-template-columns: 1fr; gap: 1.5rem; } }
+
+.next-steps { padding-left: 1.2rem; margin: 0 0 2rem; display: grid; gap: .5rem; color: var(--muted); }
+.next-steps li::marker { color: var(--gold); font-weight: 700; }
+
 /* Sections */
 .section { padding: clamp(4rem, 9vw, 7rem) 0; }
 .section-cream { background: var(--cream); }

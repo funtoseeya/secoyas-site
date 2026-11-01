@@ -55,3 +55,9 @@ Stated on the site but not found on the listing site. Correct or remove if wrong
 - Civil and religious ceremonies in the pérgola
 - Visits by appointment
 - Legal name and RUT for the privacy policy (currently "Las Secoyas SpA", no RUT)
+- A "desde $X por persona" price to show on the site (filters out curious browsers and builds trust)
+- Whether the Patio de Comidas (restaurant facing the road) should have its own page, with hours and menu
+
+## Seasonal content
+
+- `site/index.html` has a "Fiestas de fin de año 2026" notice (`<aside class="season">`), and `site/eventos-empresa/index.html` ends with a year-end CTA. Change both in January (e.g. to wedding season).

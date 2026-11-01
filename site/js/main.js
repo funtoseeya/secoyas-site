@@ -53,7 +53,7 @@
       "perplexity.ai": "Perplexity", "instagram.com": "Instagram", "l.instagram.com": "Instagram",
       "facebook.com": "Facebook", "m.facebook.com": "Facebook", "l.facebook.com": "Facebook",
       "gemini.google.com": "Gemini", "copilot.microsoft.com": "Copilot", "invitalo.cl": "Invítalo",
-      "matrimonios.cl": "Matrimonios.cl", "inmejorableinversiongastronomica.com": ""
+      "inmejorableinversiongastronomica.com": ""
     };
     var label = "";
     if (source) {
