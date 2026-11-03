@@ -58,6 +58,10 @@ Stated on the site but not found on the listing site. Correct or remove if wrong
 - A "desde $X por persona" price to show on the site (filters out curious browsers and builds trust)
 - Whether the Patio de Comidas (restaurant facing the road) should have its own page, with hours and menu
 
+## Ideas for later
+
+- Replace the quote form's "Enviar por correo" button (opens the visitor's email app) with a real send button through Web3Forms (free, no PHP). Needs: which inbox receives quotes, a Web3Forms key, and a line in the privacy policy naming the service.
+
 ## Seasonal content
 
 - `site/index.html` has a "Fiestas de fin de año 2026" notice (`<aside class="season">`), and `site/eventos-empresa/index.html` ends with a year-end CTA. Change both in January (e.g. to wedding season).
