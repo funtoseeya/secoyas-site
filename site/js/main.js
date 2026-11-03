@@ -6,7 +6,7 @@
     whatsapp: "56968345841",
     email: "infosecoyaseventos@gmail.com",
     // Google Analytics 4 measurement ID. Leave the placeholder until the property exists.
-    gaId: "G-XXXXXXXXXX"
+    gaId: "G-BZDMFP6P27"
   };
 
   var PAGE_NAMES = {
