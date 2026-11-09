@@ -3,8 +3,8 @@
   "use strict";
 
   var CONFIG = {
-    whatsapp: "56968345841",
-    email: "infosecoyaseventos@gmail.com",
+    whatsapp: "56959415518",
+    email: "yasminsecoyaseventos@gmail.com",
     // Google Analytics 4 measurement ID. Leave the placeholder until the property exists.
     gaId: "G-BZDMFP6P27"
   };
