@@ -12,5 +12,5 @@ Replacement for https://secoyaseventos.cl/ (old WordPress). Goal: get couples an
 
 ## Scope
 
-- In: multi-page site (one page per event type), quote form → WhatsApp + email, structured data, local SEO / AI-search basics, Google reviews, Search Console + Bing + Analytics setup, Google Business Profile fixes, privacy/cookie notice (Ley 21.719, in force 2026-12-01), automated monthly report emailed to Francisco.
-- Out for now: blog articles, social media management, paid ads.
+- In: multi-page site (one page per event type), quote form → WhatsApp + email, structured data, local SEO / AI-search basics, Google reviews, Search Console + Bing + Analytics setup, Google Business Profile fixes, privacy/cookie notice (Ley 21.719, in force 2026-12-01).
+- Out for now: blog articles, social media management. Paid ads and the monthly results report to Francisco are handled by Franco (Lodestar), not this repo.

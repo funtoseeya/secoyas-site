@@ -44,7 +44,6 @@ Redirects in `.htaccess` only work on the real server.
 - [ ] Google Search Console: add the domain, verify by DNS, submit `sitemap.xml`
 - [ ] Bing Webmaster Tools: import from Search Console
 - [ ] Google Business Profile: category **Recinto para eventos**, website → https://secoyaseventos.cl, same phone and address as the site
-- [ ] Monthly report email to Francisco
 
 ## To confirm with Francisco
 
