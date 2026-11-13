@@ -1,0 +1,4 @@
+# Copia de archivo del sitio anterior: que Google y otros buscadores no la muestren
+<IfModule mod_headers.c>
+  Header always set X-Robots-Tag "noindex, nofollow"
+</IfModule>

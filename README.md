@@ -10,6 +10,7 @@ Storefront site for Parque y Casa de Eventos Las Secoyas (Calera de Tango). Plai
 | `partials/` | Header and footer shared by every page. |
 | `photos/` | Original photos (max 2400 px). Web versions are generated from these. |
 | `tools/` | Two small helper scripts (below). |
+| `site/sitio-anterior/` | Static copy of the old WordPress site (from the 2026-11-01 cPanel backup), so the owners can reread the old texts at https://secoyaseventos.cl/sitio-anterior/. Not linked from the site, blocked in `robots.txt` and marked noindex. Old phones/emails were swapped for today's contact, and the header photo (a CNN stock image) for one of the venue's own photos. |
 
 ## Editing
 
