@@ -171,6 +171,7 @@ em.accent { font-family: var(--serif); font-style: italic; font-weight: 500; col
 .hero h1 { color: #fff; max-width: 15ch; }
 .hero .lead { color: rgba(255,255,255,.9); font-size: clamp(1.05rem, 1.6vw, 1.25rem); }
 .hero .eyebrow { color: #f1d9a8; }
+.hero-note { display: inline-block; margin: 0 0 1rem; padding: .35rem .9rem; border-radius: 999px; background: #f1d9a8; color: var(--forest); font-weight: 700; font-size: .95rem; }
 .hero-short { min-height: min(62vh, 560px); }
 
 /* Trust bar */
